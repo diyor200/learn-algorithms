@@ -1,0 +1,9 @@
+Big O establishes a worst-case run time
+
+Some common Big O run times
+1. O(log n), also known as log time. Example: Binary search
+2. O(n), also known as linear time. Example: Simple search
+3. O(n * log n). Example: A fast sorting algorithm, like quicksort
+4. O(n*n). Example: A slow sorting algorithm, like selection sort
+5. O(n!). Example: A really slow algorithm, like the traveling
+   salesperson
